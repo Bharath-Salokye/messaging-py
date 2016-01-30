@@ -1,0 +1,15 @@
+body {
+  color: #4d926f;
+}
+.chatBox {
+  width: 80%;
+  background: orange;
+}
+.sidebar {
+  width: 10%;
+  background: red;
+  z-index: 2;
+  position: fixed;
+  right: 0;
+  height: 500px;
+}
